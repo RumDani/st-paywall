@@ -1,0 +1,3 @@
+client_id = '617309672486-pd7ph3f2katvjfjvq10jqgrfer3pit9b.apps.googleusercontent.com'
+client_secret = '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'
+redirect_url = 'http://localhost:8501'
